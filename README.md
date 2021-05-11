@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Nicolas, and I'm a freelance developer, high schooler, professional idiot, and liberal scum.
+
+- Pronouns: he/his/him
+- I'm currently working on GeoFS Autoland, an extension for GeoFS, an online flight simulator
+
 <!--
 **nicolas377/nicolas377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
