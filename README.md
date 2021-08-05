@@ -3,7 +3,7 @@
 My name is Nicolas, and I'm a freelance developer, high schooler, professional idiot, and liberal scum.
 
 - Pronouns: he/his/him
-- I'm currently working on GeoFS Autoland, an extension for GeoFS, an online flight simulator
+- I'm currently working on GeoFS Autoland, an extension for GeoFS, an online flight simulator.
 - I'm looking for part-time work in the development field.
 - You can reach me at in my twitter dms [here](https://twitter.com/nrod_06).
 - I'm currently learning TypeScript (and how to do a backflip).
