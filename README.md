@@ -1,23 +1,12 @@
-### Hey! 👋
+<h2 align="center">Hey there!</h2>
 
-My name is Nicolas. Here's a short bio on me:
+<p align="center">I'm Nicolas, a high school developer located in South Carolina. I make stupid things happen. (sometimes)</p>
 
-- I'm a high schooler in the United States.
-- I'm currently working on GeoFS Plugins, an extension for GeoFS, an online flight simulator.
-- I'm currently learning CS theory.
-- You can reach me at in my twitter dms [here](https://twitter.com/nrod_06).
+- My biggest project is [GeoFS Plugins](https://github.com/GeoFS-Extensions/autoland). I work on it with a team of 3 other people from around the world.
+- I also maintain [extension-cli](https://github.com/MobileFirstLLC/extension-cli), and a few packages on [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped).
+- You can reach me on Discord at `nicolas.#1913`.
 
-<!--
-**nicolas377/nicolas377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolas377&show_icons=true&theme=dark&hide_border=true" />
+</div>
