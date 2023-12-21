@@ -1,10 +1,11 @@
 <h2 align="center">Hey there!</h2>
 
-<p align="center">I'm Nicolas, a high school developer located in South Carolina. I make stupid things happen. (sometimes)</p>
+<p align="center">I'm Nick, a high school developer located in South Carolina. I make stupid things happen. (sometimes)</p>
 
-- My biggest project is [GeoFS Plugins System](https://github.com/gpsystem). I work on it with a team of 2 other people from around the world.
+- I started out modding GeoFS, an online flight simulator.
+- I'm getting back into TypeScript with an old project of mine (its the pinned one if you want to check it out)
 - I also maintain [extension-cli](https://github.com/MobileFirstLLC/extension-cli), and a few packages on [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped).
-- You can reach me on Discord at `nicolas.#1913`.
+- I'm inbetween semesters at the moment, so I'll be contributing a good bit until I start spring semester.
 
 <br>
 <div align="center">
