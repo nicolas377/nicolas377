@@ -1,6 +1,6 @@
 <h2 align="center">Hey there!</h2>
 
-<p align="center">I'm Nick, an (almost) college developer located in South Carolina. I make stupid things happen. (sometimes)</p>
+<p align="center">I'm Nick, a CS major at Clemson. I make stupid things happen. (sometimes)</p>
 
 - I started out modding GeoFS, an online flight simulator.
 - I currently maintain [extension-cli](https://github.com/MobileFirstLLC/extension-cli), and a few packages on [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped).
