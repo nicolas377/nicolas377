@@ -1,13 +1,17 @@
-<h2 align="center">Hey there!</h2>
+<h1 align="center">Hey there! I'm Nick 👋</h1>
+<p align="center">
+  CIS Major at Clemson University • Student IT Technician • Open Source Maintainer
+</p>
 
-<p align="center">I'm Nick, a CIS major at Clemson. I make stupid things happen (sometimes).</p>
+<p align="center">
+  <a href="https://github.com/nicolas377">
+    <img src="https://github-stats-extended.vercel.app/api?username=nicolas377&show_icons=true" alt="Nick's GitHub stats" />
+  </a>
+</p>
 
-- I started out modding GeoFS, an online flight simulator. I moved through several passion projects through late middle school into early high school. Eventually I started [GeoFS Plugins](https://github.com/GeoFS-Extensions/autoland) before moving on during the second half of high school.
-- I'm currently a Computer Information Systems student at Clemson working in their IT department. While I'm currently bogged down in theory, I'm always looking to start a project.
-- I currently maintain a few packages on [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped), the most notable of which being [@types/chrome](https://www.npmjs.com/package/@types/chrome).
-- As I mentioned, while I mostly just do code reviews, I will occasionally check my notifications for pings.
+### About me
 
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolas377&show_icons=true&theme=dark&hide_border=true" />
-</div>
+- **Education & Work**: Studying Computer Information Systems at Clemson University while working in Clemson IT.
+- **Active OSS projects**: Maintainer on  [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped), actively maintaining [@types/chrome](https://www.npmjs.com/package/@types/chrome).
+- **Background**: Built and maintained flight simulator extensions, later merging them into the [GeoFS Plugins](https://github.com/GeoFS-Extensions/autoland) ecosystem.
+- **Current focus**: Reviewing DefinitelyTyped PRs and building side projects (soon to come! check the pinned repos).
